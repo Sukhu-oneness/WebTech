@@ -57,7 +57,7 @@ export default function Header() {
               <div className="flex items-center space-x-2">
                 <span>📧</span>
                 <a href="mailto:info@info.com" className="hover:text-blue-200 transition-colors">
-                  info@info.com
+                  info@sirsatech.com
                 </a>
               </div>
             </div>
