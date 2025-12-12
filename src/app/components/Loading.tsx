@@ -12,7 +12,7 @@ export default function Loading() {
           transition={{ duration: 0.5 }}
           className="w-20 h-20 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl mx-auto mb-8 flex items-center justify-center"
         >
-          <span className="text-white font-bold text-2xl">TW</span>
+          <span className="text-white font-bold text-2xl">ST</span>
         </motion.div>
         
         <motion.h1
@@ -21,7 +21,7 @@ export default function Loading() {
           transition={{ delay: 0.2, duration: 0.5 }}
           className="text-4xl font-bold text-white mb-4"
         >
-          TechWeb
+          SirsaTech
         </motion.h1>
         
         <motion.p

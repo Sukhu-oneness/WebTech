@@ -74,7 +74,7 @@ export default function AboutPage() {
             className="text-center"
           >
             <h1 className="text-6xl md:text-7xl font-bold text-white mb-6">
-              About <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">TechWeb</span>
+              About <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">SirsaTech</span>
             </h1>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
               We are a team of passionate innovators dedicated to transforming businesses 

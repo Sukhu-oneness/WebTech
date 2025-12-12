@@ -12,7 +12,7 @@ export default function About() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.6 }}
           >
-            <h2 className="text-5xl font-bold text-white mb-6">About TechWeb</h2>
+            <h2 className="text-5xl font-bold text-white mb-6">About SirsaTech</h2>
             <p className="text-xl text-gray-300 mb-8 leading-relaxed">
               We are a team of passionate developers, designers, and IT experts dedicated to 
               delivering exceptional digital solutions. With over 10 years of experience, 

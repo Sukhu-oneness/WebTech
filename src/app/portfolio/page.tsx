@@ -46,7 +46,7 @@ export default function PortfolioPage() {
         '/api/placeholder/600/400'
       ],
       liveUrl: 'https://fashionhub-demo.com',
-      githubUrl: 'https://github.com/techweb/fashionhub'
+      githubUrl: 'https://github.com/SirsaTech/fashionhub'
     },
     {
       id: 2,
@@ -121,7 +121,7 @@ export default function PortfolioPage() {
         '/api/placeholder/600/400'
       ],
       liveUrl: 'https://datainsight-demo.com',
-      githubUrl: 'https://github.com/techweb/ai-dashboard'
+      githubUrl: 'https://github.com/SirsaTech/ai-dashboard'
     },
     {
       id: 5,
@@ -171,7 +171,7 @@ export default function PortfolioPage() {
         '/api/placeholder/600/400'
       ],
       liveUrl: 'https://smartliving-app.com',
-      githubUrl: 'https://github.com/techweb/smart-home'
+      githubUrl: 'https://github.com/SirsaTech/smart-home'
     },
     {
       id: 7,
@@ -221,7 +221,7 @@ export default function PortfolioPage() {
         '/api/placeholder/600/400'
       ],
       liveUrl: 'https://apps.apple.com/fitlife',
-      githubUrl: 'https://github.com/techweb/fitlife'
+      githubUrl: 'https://github.com/SirsaTech/fitlife'
     }
   ];
 

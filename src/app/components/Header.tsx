@@ -51,7 +51,7 @@ export default function Header() {
               <div className="flex items-center space-x-2">
                 <span>📞</span>
                 <a href="tel:+919090909090" className="hover:text-blue-200 transition-colors">
-                  +91 9090000900
+                  +91 9355716014 , +91 9992509356
                 </a>
               </div>
               <div className="flex items-center space-x-2">
@@ -89,11 +89,11 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="flex items-center space-x-3">
               <div className="w-12 h-12 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-lg">W</span>
-              </div>
+                <span className="text-white font-bold text-lg">ST</span>
+              </div> 
               <div className="flex flex-col">
-                <span className="text-2xl font-bold text-gray-900">WEBSOFT</span>
-                <span className="text-sm text-gray-600 -mt-1">PROFESSIONAL</span>
+                <span className="text-2xl font-bold text-gray-900">Sirsa</span>
+                <span className="text-sm text-gray-600 -mt-1">Tech</span>
               </div>
             </Link>
 

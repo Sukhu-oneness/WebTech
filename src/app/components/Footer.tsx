@@ -9,7 +9,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-xl">TW</span>
               </div>
-              <span className="text-white text-2xl font-bold">TechWeb</span>
+              <span className="text-white text-2xl font-bold">SirsaTech</span>
             </div>
             <p className="text-gray-400 mb-6 max-w-md leading-relaxed">
               We deliver cutting-edge IT solutions that drive business growth and digital transformation. 
@@ -70,7 +70,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-slate-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 TechWeb. All rights reserved.
+            © 2024 SirsaTech. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors duration-300">

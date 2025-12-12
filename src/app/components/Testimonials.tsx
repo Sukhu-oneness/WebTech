@@ -7,7 +7,7 @@ const testimonials = [
     name: 'Sarah Johnson',
     company: 'TechInnovate Inc.',
     role: 'CEO',
-    content: 'TechWeb transformed our digital presence. Their team delivered exceptional results and provided ongoing support that exceeded our expectations.',
+    content: 'SirsaTech transformed our digital presence. Their team delivered exceptional results and provided ongoing support that exceeded our expectations.',
     avatar: '/api/placeholder/100/100'
   },
   {
@@ -21,7 +21,7 @@ const testimonials = [
     name: 'Emily Davis',
     company: 'StartUp Ventures',
     role: 'Founder',
-    content: 'Working with TechWeb was a game-changer for our startup. They understood our vision and delivered a product that perfectly matched our needs.',
+    content: 'Working with SirsaTech was a game-changer for our startup. They understood our vision and delivered a product that perfectly matched our needs.',
     avatar: '/api/placeholder/100/100'
   }
 ];

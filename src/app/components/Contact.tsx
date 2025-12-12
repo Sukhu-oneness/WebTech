@@ -60,7 +60,7 @@ export default function Contact() {
                 {
                   icon: '📧',
                   title: 'Email Us',
-                  content: 'info@techweb.com',
+                  content: 'info@SirsaTech.com',
                   description: 'Send us an email anytime'
                 },
                 {

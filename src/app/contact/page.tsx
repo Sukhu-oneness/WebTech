@@ -54,9 +54,9 @@ export default function ContactPage() {
     {
       icon: '📧',
       title: 'Email Us',
-      details: 'info@techweb.com',
+      details: 'info@SirsaTech.com',
       description: 'Send us an email anytime',
-      link: 'mailto:info@techweb.com'
+      link: 'mailto:info@SirsaTech.com'
     },
     {
       icon: '📞',
@@ -86,19 +86,19 @@ export default function ContactPage() {
       city: 'San Francisco',
       address: '123 Tech Street, Silicon Valley, CA 94025',
       phone: '+1 (555) 123-4567',
-      email: 'sf@techweb.com'
+      email: 'sf@SirsaTech.com'
     },
     {
       city: 'New York',
       address: '456 Innovation Ave, Manhattan, NY 10001',
       phone: '+1 (555) 234-5678',
-      email: 'ny@techweb.com'
+      email: 'ny@SirsaTech.com'
     },
     {
       city: 'London',
       address: '789 Digital Lane, London, UK EC1A 1BB',
       phone: '+44 20 7946 0958',
-      email: 'london@techweb.com'
+      email: 'london@SirsaTech.com'
     }
   ];
 
